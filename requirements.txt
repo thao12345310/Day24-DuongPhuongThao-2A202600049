@@ -14,3 +14,4 @@ streamlit==1.37.1
 transformers==4.44.2
 torch==2.4.0
 PyYAML==6.0.2
+
