@@ -79,4 +79,4 @@ Guardrails should be measured like product features. PII redaction, topic valida
 
 ## Demo Video
 
-Add your Loom or YouTube unlisted link here after recording the required 5-minute demo.
+https://drive.google.com/drive/folders/1D-Q3Ot-bSDBBHWD7MqSRBounV1ZygjBu?usp=sharing
