@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+1,B,high,"Label based on factual support, relevance, and conciseness."
+2,B,high,"Label based on factual support, relevance, and conciseness."
+3,A,high,"Label based on factual support, relevance, and conciseness."
+4,tie,medium,"Label based on factual support, relevance, and conciseness."
+5,B,high,"Label based on factual support, relevance, and conciseness."
+6,B,high,"Label based on factual support, relevance, and conciseness."
+7,A,high,"Label based on factual support, relevance, and conciseness."
+8,A,high,"Label based on factual support, relevance, and conciseness."
+9,A,high,"Label based on factual support, relevance, and conciseness."
+10,B,high,"Label based on factual support, relevance, and conciseness."

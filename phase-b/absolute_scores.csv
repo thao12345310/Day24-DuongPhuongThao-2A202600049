@@ -1,0 +1,31 @@
+question_id,question,accuracy,relevance,conciseness,helpfulness,overall
+1,What does Lab 24 say about faithfulness?,5,5,4,5,4.75
+2,What does Lab 24 say about answer relevancy?,5,5,4,5,4.75
+3,What does Lab 24 say about context precision?,5,5,5,5,5.0
+4,What does Lab 24 say about context recall?,5,5,5,4,4.75
+5,What does Lab 24 say about pairwise judge?,5,5,4,5,4.75
+6,What does Lab 24 say about cohen kappa?,5,4,4,5,4.5
+7,What does Lab 24 say about pii redaction?,5,5,4,5,4.75
+8,How does context recall expose missing evidence in a RAG answer?,5,5,5,4,4.75
+9,What does Lab 24 say about prompt injection?,5,5,5,5,5.0
+10,What does Lab 24 say about llama guard?,5,5,4,5,4.75
+11,What does Lab 24 say about latency benchmark?,5,5,4,5,4.75
+12,What does Lab 24 say about audit log?,5,4,4,4,4.25
+13,What does Lab 24 say about faithfulness?,5,5,5,5,5.0
+14,What does Lab 24 say about answer relevancy?,4,5,5,5,4.75
+15,What does Lab 24 say about context precision?,5,5,4,5,4.75
+16,What does Lab 24 say about context recall?,5,5,4,4,4.5
+17,What does Lab 24 say about pairwise judge?,5,5,4,5,4.75
+18,What does Lab 24 say about cohen kappa?,5,4,5,5,4.75
+19,What does Lab 24 say about pii redaction?,5,5,5,5,5.0
+20,What does Lab 24 say about topic guard?,5,5,4,4,4.5
+21,What does Lab 24 say about prompt injection?,4,5,5,5,4.75
+22,What does Lab 24 say about llama guard?,5,5,4,5,4.75
+23,What does Lab 24 say about latency benchmark?,5,5,5,5,5.0
+24,What does Lab 24 say about audit log?,5,4,5,4,4.5
+25,What does Lab 24 say about faithfulness?,5,5,4,5,4.75
+26,Why is answer relevancy important for a production RAG system?,5,5,4,5,4.75
+27,Why is context precision important for a production RAG system?,5,5,4,5,4.75
+28,Why is context recall important for a production RAG system?,4,5,5,4,4.5
+29,Why is pairwise judge important for a production RAG system?,5,5,5,5,5.0
+30,Why is cohen kappa important for a production RAG system?,5,4,4,5,4.5

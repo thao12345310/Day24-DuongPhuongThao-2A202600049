@@ -1,0 +1,11 @@
+input,output,pii_found,labels,latency_ms
+"Hi, I'm John Smith from Microsoft. Email: john@ms.com","Hi, I'm [PERSON_HINT] from Microsoft. Email: [EMAIL]",True,email;person_hint,0.375
+"Call me at +1-555-123-4567 or visit 123 Main Street, NYC","Call me at +1-[PHONE_US] or visit [STREET_US], NYC",True,phone_us;street_us,0.014
+So CCCD cua toi la 012345678901,So CCCD cua toi la [CCCD],True,cccd,0.006
+Lien he qua 0987654321 hoac tax 0123456789-001,Lien he qua [PHONE_VN]hoac tax [PHONE_VN]001,True,phone_vn,0.009
+"Customer Nguyen Van A, CCCD 098765432101, phone 0912345678","Customer [PERSON_HINT], CCCD [CCCD], phone [PHONE_VN]",True,cccd;phone_vn;person_hint,0.011
+,,False,,0.002
+Just a normal question about RAGAS,Just a normal question about RAGAS,False,,0.005
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,False,,0.271
+Ly Van Binh o 123 Le Loi,[PERSON_HINT] o [ADDRESS_VN],True,address_vn;person_hint,0.005
+tax_code:0123456789-001 cccd:012345678901,tax_code:[PHONE_VN]001 cccd:[CCCD],True,cccd;phone_vn,0.006

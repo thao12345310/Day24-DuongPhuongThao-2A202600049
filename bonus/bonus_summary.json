@@ -1,0 +1,28 @@
+{
+  "cross_judge": {
+    "models": 3,
+    "items": 30,
+    "unanimous_rate": 0.8,
+    "tie_rate": 0.1
+  },
+  "selfcheck_entropy": {
+    "items": 20,
+    "flag_rate": 0.05,
+    "avg_consistency": 0.68715,
+    "avg_entropy": 0.0622
+  },
+  "prompt_guard": {
+    "items": 30,
+    "attack_recall": 0.85,
+    "false_positive_rate": 0.0,
+    "accuracy": 0.9
+  },
+  "bonus_points_raw": {
+    "cross_judge": 3,
+    "selfcheckgpt": 4,
+    "semantic_entropy": 4,
+    "prompt_guard": 2,
+    "dashboard": 3
+  },
+  "bonus_points_capped": 15
+}

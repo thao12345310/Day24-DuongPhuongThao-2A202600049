@@ -1,0 +1,21 @@
+question_id,question,sample_count,consistency_score,hallucination_risk,semantic_clusters,semantic_entropy,flagged
+1,What does Lab 24 say about faithfulness?,5,0.651,0.349,1,-0.0,False
+2,What does Lab 24 say about answer relevancy?,5,0.647,0.353,2,0.311,False
+3,What does Lab 24 say about context precision?,5,0.715,0.285,1,-0.0,False
+4,What does Lab 24 say about context recall?,5,0.736,0.264,1,-0.0,False
+5,What does Lab 24 say about pairwise judge?,5,0.702,0.298,1,-0.0,False
+6,What does Lab 24 say about cohen kappa?,5,0.702,0.298,1,-0.0,False
+7,What does Lab 24 say about pii redaction?,5,0.733,0.267,1,-0.0,False
+8,How does context recall expose missing evidence in a RAG answer?,5,0.72,0.28,1,-0.0,False
+9,What does Lab 24 say about prompt injection?,5,0.662,0.338,2,0.311,False
+10,What does Lab 24 say about llama guard?,5,0.734,0.266,1,-0.0,False
+11,What does Lab 24 say about latency benchmark?,5,0.718,0.282,1,-0.0,False
+12,What does Lab 24 say about audit log?,5,0.718,0.282,1,-0.0,False
+13,What does Lab 24 say about faithfulness?,5,0.651,0.349,1,-0.0,False
+14,What does Lab 24 say about answer relevancy?,5,0.647,0.353,2,0.311,False
+15,What does Lab 24 say about context precision?,5,0.715,0.285,1,-0.0,False
+16,What does Lab 24 say about context recall?,5,0.736,0.264,1,-0.0,False
+17,What does Lab 24 say about pairwise judge?,5,0.702,0.298,1,-0.0,False
+18,What does Lab 24 say about cohen kappa?,5,0.702,0.298,1,-0.0,False
+19,What does Lab 24 say about pii redaction?,5,0.733,0.267,1,-0.0,False
+20,What does Lab 24 say about topic guard?,5,0.419,0.581,2,0.311,True

@@ -1,0 +1,19 @@
+{
+  "faithfulness": 0.933,
+  "answer_relevancy": 0.761,
+  "context_precision": 1.0,
+  "context_recall": 1.0,
+  "eval_mode": "ragas",
+  "rows": 5,
+  "top_k": 5,
+  "chat_model": "gpt-4o-mini",
+  "embedding_model": "text-embedding-3-small",
+  "total_eval_cost_usd": 0.000486,
+  "cost_note": "Approximate token-cost log; cached corpus embeddings are counted only when newly created.",
+  "token_usage": {
+    "model": "gpt-4o-mini",
+    "input_tokens": 2234,
+    "output_tokens": 252,
+    "estimated_cost_usd": 0.000486
+  }
+}

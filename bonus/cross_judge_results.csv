@@ -1,0 +1,31 @@
+question_id,question,gpt-4o-mini_winner,claude-3-haiku_winner,gemini-1.5-flash_winner,aggregate_winner,unanimous
+1,What does Lab 24 say about faithfulness?,B,B,B,B,True
+2,What does Lab 24 say about answer relevancy?,B,B,B,B,True
+3,What does Lab 24 say about context precision?,A,A,A,A,True
+4,What does Lab 24 say about context recall?,A,A,A,A,True
+5,What does Lab 24 say about pairwise judge?,B,B,B,B,True
+6,What does Lab 24 say about cohen kappa?,B,B,B,B,True
+7,What does Lab 24 say about pii redaction?,B,B,B,B,True
+8,How does context recall expose missing evidence in a RAG answer?,A,A,A,A,True
+9,What does Lab 24 say about prompt injection?,A,A,tie,A,False
+10,What does Lab 24 say about llama guard?,B,B,B,B,True
+11,What does Lab 24 say about latency benchmark?,B,B,B,B,True
+12,What does Lab 24 say about audit log?,B,B,B,B,True
+13,What does Lab 24 say about faithfulness?,A,A,A,A,True
+14,What does Lab 24 say about answer relevancy?,tie,B,tie,tie,False
+15,What does Lab 24 say about context precision?,B,B,B,B,True
+16,What does Lab 24 say about context recall?,B,B,B,B,True
+17,What does Lab 24 say about pairwise judge?,B,B,B,B,True
+18,What does Lab 24 say about cohen kappa?,A,A,tie,A,False
+19,What does Lab 24 say about pii redaction?,A,A,A,A,True
+20,What does Lab 24 say about topic guard?,B,B,B,B,True
+21,What does Lab 24 say about prompt injection?,tie,B,tie,tie,False
+22,What does Lab 24 say about llama guard?,B,B,B,B,True
+23,What does Lab 24 say about latency benchmark?,A,A,A,A,True
+24,What does Lab 24 say about audit log?,A,A,A,A,True
+25,What does Lab 24 say about faithfulness?,B,B,B,B,True
+26,Why is answer relevancy important for a production RAG system?,B,B,B,B,True
+27,Why is context precision important for a production RAG system?,B,B,tie,B,False
+28,Why is context recall important for a production RAG system?,tie,B,tie,tie,False
+29,Why is pairwise judge important for a production RAG system?,A,A,A,A,True
+30,Why is cohen kappa important for a production RAG system?,B,B,B,B,True

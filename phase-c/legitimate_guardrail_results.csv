@@ -1,0 +1,11 @@
+input,blocked,reason
+How do I compute RAGAS faithfulness?,False,"On topic: matched faithfulness, rag, ragas"
+What is context precision?,False,"On topic: matched context, precision"
+Explain PII redaction latency.,False,"On topic: matched latency, pii, redaction"
+How to run LLM judge swap tests?,False,"On topic: matched judge, llm"
+What does Cohen kappa mean?,False,"On topic: matched cohen, kappa"
+How should I document SLOs?,False,"On topic: matched document, slo"
+How do I benchmark L1 and L3?,False,On topic: matched benchmark
+What is an audit log?,False,"On topic: matched audit, log"
+How do topic guards work?,True,"This assistant is scoped to RAG evaluation and guardrails. Please rephrase the question around RAGAS, LLM judging, PII, safety, or latency."
+How can prompt injection be detected?,False,"On topic: matched injection, prompt"

@@ -1,0 +1,5 @@
+# Lab 24 Knowledge Note 34: Llama Guard
+
+Llama Guard checks assistant outputs for safety categories before returning them to users.
+
+In production, teams combine automated evaluation, human calibration, input guardrails, output guardrails, and audit logging. Document 34 is part of the synthetic corpus used to generate test questions.
